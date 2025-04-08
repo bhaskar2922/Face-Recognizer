@@ -14,6 +14,9 @@ This is a simple Face Recognition web application built using OpenCV, Streamlit,
 - Labels unrecognized faces as **"Unknown"**.
 
 ---
+Trained model:
+- Used LBPH (Local Binary Pattern Histogram)
+- Trained using custom images of 3 people
 
 ## 🧠 How It Works
 
