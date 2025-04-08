@@ -1,4 +1,4 @@
+opencv-python-headless
 streamlit
-opencv-contrib-python==4.7.0.72
 numpy
 Pillow
